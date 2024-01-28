@@ -22,6 +22,10 @@
 
 Welcome to Typie, the web application designed to elevate your typing skills and track your progress in real-time. Whether you're a professional looking to enhance your productivity or a casual user aiming to boost your typing speed, Typie is here to help you achieve your goals.
 
+## If you just want to see the result
+
+Here is [Netlify link](https://warm-clafoutis-37f56e.netlify.app/) where you can see the output.
+
 ### Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
